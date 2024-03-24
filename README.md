@@ -24,8 +24,11 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program
+```
 Developed By :ARCHANA S
 Register.No :212223040019
+```
+```
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
@@ -57,6 +60,7 @@ if (rho<1):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
+```
 
 ## Output :
 ![image](https://github.com/ARCH2006/Muttiple-capacity-with-infinite-capacity/assets/144300030/317a5317-5bd5-47e7-bd0f-5cd03e26325e)
